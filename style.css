@@ -1,0 +1,89 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.container{
+    margin-top:50px;
+}
+section{
+    margin: 100px 0px;
+}
+.top-button{
+    background-color: rgb(33, 181, 115);
+    border-radius: 25px;
+   padding: 10px 25px !important;
+   width: 112px;
+}
+
+.Logo{
+    height: 60px;
+}
+.orange-color{
+    color: rgb(253, 81, 26);
+}
+.large-text{
+    font-weight:bold ;
+    font-size: 50px;
+    color:black
+}
+span{
+    color: rgb(33, 181, 115);
+}
+p{
+    color: rgb(131, 133, 132); ;
+}
+.button{
+    background-color: rgb(33, 181, 115);
+    border-radius: 25px;
+   padding: 10px 25px !important;
+   border: none;
+   outline: 0;
+   color: #ffffff;
+}
+.icon-img{
+    width: 70px;
+    
+}
+.title-color{
+    color: rgb(65, 57, 96)
+}
+.online-course{
+    text-align: center;
+    color: rgb(65, 57, 96);
+    font-weight: 900;
+}
+.sec-card{
+    height: 300px;
+    border: 0px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 25px lightgray;
+}
+.card{
+    border: 0;
+    box-shadow: 0px 0px 25px lightgray;
+
+}
+.card-footer{
+    border: 0;
+    margin-left: 0;
+    float: right;
+}
+footer{
+    
+    height: 320px;
+    
+}
+.foot-col{
+    font-family: roboto;
+    margin-top: 50px;
+    
+}
+footer ul li{
+    list-style: none;
+    font-family: roboto;
+}
+.copyright{
+    text-align: center;
+    font-family: roboto; 
+    margin-top: 30px; 
+}
