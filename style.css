@@ -70,7 +70,7 @@ p{
 }
 footer{
     
-    height: 320px;
+    height: 100%;
     
 }
 .foot-col{
@@ -86,4 +86,7 @@ footer ul li{
     text-align: center;
     font-family: roboto; 
     margin-top: 30px; 
+}
+.sub-btn{
+    float: right;
 }
